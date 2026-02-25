@@ -1,3 +1,7 @@
+# New 
+--> pre-commit config : verify linting, no secrets directly in code before comitting 
+--> new Classes : BusShift and BusStops 
+
 # Django technical test / Backend (English version first, French version below)
 
 The objective of the exercise below is to model a database based on business specifications and to 
