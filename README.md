@@ -1,6 +1,7 @@
 # New 
 --> pre-commit config : verify linting, no secrets directly in code before comitting 
 --> new Classes : BusShift and BusStops 
+--> Unit Tests : fleet/tests/tests_busshift.py : tests unitaires de définition de trajets (ne passent pas avant implémentation : OK)
 
 # Django technical test / Backend (English version first, French version below)
 
